@@ -1,4 +1,5 @@
 import React from 'react'
+import "../app/css/responsive.css";
 
 const Footer = () => {
   return (

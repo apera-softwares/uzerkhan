@@ -814,7 +814,7 @@ header#ashade-header .ashade-header-inner {
 }
 .ashade-logo img {
 	display: block;
-	width: 60%;
+	width: 50%;
 	  mix-blend-mode: multiply;
 	height: auto;
 }
@@ -987,6 +987,7 @@ nav.ashade-nav ul.main-menu li.current-menu-ancestor > a {
 	top: 0;
     z-index: 5;
 	display: block;
+	
 }
 .ashade-content {
     width: calc(100% - 374px);
